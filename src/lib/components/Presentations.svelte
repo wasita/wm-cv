@@ -3,29 +3,29 @@
   export let WM: string = "Mahaphanit, W.";
   export let postWM: string = "";
   export let title: string = "";
-  export let year: string = "In Prep";
-  export let journal: string = "";
+  export let year: string = "";
+  export let venue: string = "";
+  export let location: string = "";
+  export let poster: boolean = false;
   export let twoAuthors: boolean = false;
-  export let URL: string = "";
 </script>
 
-<div class="mb-2">
+<div class="mb-4">
   <div>
     {#if twoAuthors}
       <span class="font-bold">{WM}</span> & {postWM}
       ({year}).
       {title}
-      <span class="italic">{journal}</span>
     {:else}
       {preWM}
       <span class="font-bold">{WM}</span>,
-      {postWM}
-      ({year}).
+      {postWM} ({year}).
       {title}
-      <span class="italic">{journal}</span>
     {/if}
-    {#if URL}
-      <a href={URL} class="text-purple-400 hover:text-blue-300">[PDF]</a>
+    {#if poster}
+      Presented at the {venue}, {location}.
+    {:else}
+      {venue}, {location}
     {/if}
   </div>
 </div>

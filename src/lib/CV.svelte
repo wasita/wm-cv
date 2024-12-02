@@ -6,7 +6,7 @@
   import Experience from "./components/Experience.svelte";
   import Teaching from "./components/Teaching.svelte";
   import Papers from "./components/Papers.svelte";
-  import Talks from "./components/Talks.svelte";
+  import Presentations from "./components/Presentations.svelte";
 </script>
 
 <div class="min-h-screen px-4 py-8 bg-gray-100">
@@ -148,25 +148,21 @@
         <Papers
           WM="Mahaphanit, W.*"
           postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
-          year="In Prep."
           title="When & why do we infer commonalities in social interactions?"
         />
         <Papers
           twoAuthors={true}
-          year="In Prep."
           postWM="Chang, L.J."
           title="Are shared experiences blind?"
         />
         <Papers
           twoAuthors={true}
-          year="In Prep."
           postWM="Chang, L.J."
           title="Communication as behavioral annotation for naturalistic stimuli."
         />
         <Papers
           preWM="Kang, J.,"
           postWM="Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S."
-          year="In Prep."
           title="The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty."
         />
       </Section>
@@ -186,7 +182,7 @@
           postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
           year="2024"
           title="When & why does shared reality generalize?"
-          journal="Proceedings of the 46th Annual Conference of the Cognitive Science Society"
+          journal="Proceedings of the 46th Annual Conference of the Cognitive Science (CogSci) Society"
           URL="https://escholarship.org/uc/item/6t6195s5"
         />
         <Papers
@@ -214,85 +210,190 @@
       </Section>
 
       <Section title="Talks">
-        <Talks
+        <Presentations
           year="November 2024"
           title="Inferring commonalities in social interactions."
-          venue="Crockett Lab Meeting (PI: Molly Crockett), Princeton University, Princeton, NJ"
+          venue="Crockett Lab Meeting (PI: Molly Crockett)"
+          location="Princeton University, Princeton, NJ"
         />
-        <Talks
+        <Presentations
           year="July 2024"
           title="When & why does shared reality generalize?"
-          venue="Cognitive Science Society conference (CogSci 2024), Rotterdam, Netherlands"
+          venue="Cognitive Science Society conference (CogSci 2024)"
+          location="Rotterdam, Netherlands"
         />
-        <Talks
+        <Presentations
           year="February 2024"
           title="Are shared experiences blind?"
-          venue="Shared Reality Mini-Conference (Virtual)"
+          venue="Shared Reality Mini-Conference"
+          location="Virtual"
         />
-        <Talks
+        <Presentations
           year="December 2023"
           title="Web dev approaches to studying social interactions."
-          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins), University of Wisconsin-Madison, Madison, WI"
+          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins)"
+          location="Virtual"
         />
-        <Talks
+        <Presentations
           year="November 2023"
           title="Learning to communicate a shared wavelength."
-          venue="New England Research on Decision-Making (NERD) conference, Harvard University, Cambridge, MA"
+          venue="New England Research on Decision-Making (NERD) conference"
+          location="Harvard University, Cambridge, MA"
         />
-        <Talks
+        <Presentations
           year="October 2023"
           title="Learning to communicate a shared wavelength."
-          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins), University of Wisconsin-Madison, Madison, WI"
+          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins)"
+          location="Virtual"
         />
-        <Talks
+        <Presentations
           year="October 2023"
           title="Does shared reality generalize?"
-          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins), University of Wisconsin-Madison, Madison, WI"
+          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins)"
+          location="Virtual"
         />
-        <Talks
+        <Presentations
           year="September 2023"
-          title="Learning to collaboratively communicate a shared wavelength"
-          venue="Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH"
+          title="Learning to collaboratively communicate a shared wavelength."
+          venue="Social Lab (SLAB) Talk Series"
+          location="Dartmouth College, Hanover, NH"
         />
-        <Talks
+        <Presentations
           year="May 2023"
           title="Decision-Making."
-          venue="Guest lecture for PSYC 028 (Cognitive Psychology) class taught by Prof. Viola Störmer, Dartmouth College, Hanover, NH."
+          venue="Guest lecture for PSYC 028 (Cognitive Psychology) class taught by Prof. Viola Störmer"
+          location="Dartmouth College, Hanover, NH"
         />
-        <Talks
+        <Presentations
           year="September 2022"
           title="On using a chat app to study communication and shared reality."
-          venue="Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH"
+          venue="Social Lab (SLAB) Talk Series"
+          location="Dartmouth College, Hanover, NH"
         />
-        <Talks
+        <Presentations
           year="May 2022"
-          title="Evolutionary game theory"
-          venue="Guest lecture for PSYC 043 (Emotion) class taught by Prof. Mark Thornton, Dartmouth College, Hanover, NH."
+          title="Evolutionary game theory."
+          venue="Guest lecture for PSYC 043 (Emotion) class taught by Prof. Mark Thornton"
+          location="Dartmouth College, Hanover, NH"
         />
-        <Talks
+        <Presentations
           year="October 2021"
           title="On building a chat app for studying shared reality construction and communication."
-          venue="Social Lab (SLAB) Talk Series at Dartmouth College, Hanover, NH"
+          venue="Social Lab (SLAB) Talk Series at Dartmouth College"
+          location="Dartmouth College, Hanover, NH"
         />
-        <Talks
+        <Presentations
           year="December 2020"
           title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
-          venue="Learning, Memory, & Decision Lab Meeting (PI: Matt Nassar), Brown University, Providence, RI"
+          venue="Learning, Memory, & Decision Lab Meeting (PI: Matt Nassar)"
+          location="Brown University, Providence, RI"
         />
-        <Talks
+        <Presentations
           year="November 2020"
           title="Intro to Honeycomb: a template for reproducible psychophysiological task creation."
-          venue="Center for Computation & Visualization (CCV) tutorial series, Brown University, Providence, RI"
+          venue="Center for Computation & Visualization (CCV) tutorial series"
+          location="Brown University, Providence, RI"
         />
-        <Talks
+        <Presentations
           year="June 2020"
           title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
-          venue="Brown Uncomference on Computational Intelligence and Applications. Brown University, Providence, RI"
+          venue="Brown Uncomference on Computational Intelligence and Applications"
+          location="Brown University, Providence, RI"
         />
-        <Talks
+        <Presentations
           year="May 2018"
           title="The costs of having better alternatives."
-          venue="Departmental undergraduate honors thesis oral defense presentation. Brown University, Providence, RI"
+          venue="Departmental undergraduate honors thesis oral defense presentation"
+          location="Brown University, Providence, RI"
+        />
+      </Section>
+      <Section title="Posters">
+        <Presentations
+          poster={true}
+          twoAuthors={true}
+          year="September 2024"
+          postWM="Chang, L.J."
+          title="Shared experiences increase social connection."
+          venue="OppNet Social Connectedness and Isolation (SCI) grantee meeting"
+          location="NIH, Rockville, MD"
+        />
+        <Presentations
+          poster={true}
+          year="August 2024"
+          title="How does shared reality generalize?"
+          postWM="Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D."
+          venue="7th annual conference on Cognitive Computational Neuroscience (CCN)"
+          location="MIT, Cambridge, MA"
+        />
+        <Presentations
+          poster={true}
+          year="June 2024"
+          preWM="Kang, J.,"
+          postWM="Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S."
+          title="The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty. "
+          venue="American Society for Stereotactic & Functional Neurosurgery (ASSFN)"
+          location="Nashville, TN"
+        />
+        <Presentations
+          poster={true}
+          year="April 2024"
+          postWM="Hawkins, R.D., Phillips, J.S., & Chang, L.J."
+          title="Learning to communicate a shared wavelength facilitates social connection."
+          venue="Social & Affective Neuroscience (SANS) Society"
+          location="Toronto, CA"
+        />
+        <Presentations
+          poster={true}
+          twoAuthors={true}
+          year="February 2024"
+          postWM="Chang, L.J."
+          title="Shared experiences strengthen social connectedness through shared impression formation and communication behavior."
+          venue="Society for Personality & Social Psychology (SPSP)"
+          location="San Diego, CA"
+        />
+        <Presentations
+          poster={true}
+          twoAuthors={true}
+          year="July 2023"
+          postWM="Chang, L.J."
+          title="Shared experiences strengthen social connectedness through shared impression formation and communication behavior."
+          venue="Cognitive Science (CogSci) Society conference"
+          location="Virtual"
+        />
+        <Presentations
+          poster={true}
+          twoAuthors={true}
+          year="April 2023"
+          postWM="Chang, L.J."
+          title="Are shared experiences blind?"
+          venue="Social & Affective Neuroscience (SANS) Society"
+          location="Santa Barbara, CA"
+        />
+        <Presentations
+          poster={true}
+          year="October 2019"
+          preWM="Geana, A.,"
+          postWM="& Frank, M.J."
+          title="The role of perceptual uncertainty in value learning and naturalistic stimulus categorization."
+          venue="Society for Neuroscience (SfN)"
+          location="Chicago, IL"
+        />
+        <Presentations
+          poster={true}
+          year="July 2019"
+          postWM="Geana, A., & Frank, M.J."
+          title="Perceptual uncertainty influences stimulus value learning in perceptual categorization."
+          venue="4th Multidisplinary conference on Reinforcement Learning and Decision Making (RLDM)"
+          location="Montreal, CA"
+        />
+        <Presentations
+          poster={true}
+          year="April 2019"
+          preWM="Provenza, P., Dastin-van Rijn, E., McLaughlin, N., Sheth, S., Viswanathan, A., Vogt, G., Ramakrishnan, R., McIngvale, E., Storch, E.,"
+          postWM="Nassar, M., Frank, M.J., Ertugrul, I., Jeni, L., Cohn, J., Borton, D., & Goodman, W."
+          title="Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder."
+          venue="5th Annual BRAIN Initiative Investigators Meeting"
+          location="Washington, D.C"
         />
       </Section>
     </div>
