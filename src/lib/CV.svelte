@@ -200,6 +200,7 @@
           year="2023"
           title="A Transdiagnostic Study of Effort-Cost Decision-Making in Psychotic and Mood Disorders."
           journal="Schizophrenia Bulletin"
+          URL="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919776/pdf/sbad155.pdf"
         />
         <Papers
           preWM="Provenza, N.R., Gelin, L.,"
@@ -207,6 +208,7 @@
           year="2021"
           title="Honeycomb: a template forreproducible psychophysiological tasks for clinic, laboratory, and home use."
           journal="Brazillian Journal of Psychiatry"
+          URL="https://pmc.ncbi.nlm.nih.gov/articles/PMC9041958/pdf/bjp-44-02-147.pdf"
         />
       </Section>
 
@@ -220,7 +222,7 @@
         <Presentations
           year="July 2024"
           title="When & why does shared reality generalize?"
-          venue="Cognitive Science Society conference (CogSci 2024)"
+          venue="Cognitive Science (CogSci) Society conference"
           location="Rotterdam, Netherlands"
         />
         <Presentations
@@ -518,16 +520,19 @@
       <Section title="Research Training">
         <Honors
           info="Methods in Neuroscience at Dartmouth (MIND) Summer School"
+          URL="https://mindsummerschool.org"
           details="Dartmouth College"
           date="2023"
         />
         <Honors
           info="Computational Neuroscience"
+          URL="https://compneuro.neuromatch.io/tutorials/intro.html"
           details="Neuromatcha Academy (NMA)"
           date="2021"
         />
         <Honors
           info="Carney Computational Modeling Workshop"
+          URL="https://ccbs.carney.brown.edu/training-education/competitions"
           details="Brown University"
           date="2018"
         />

@@ -15,14 +15,16 @@
       <span class="font-bold">{WM}</span> & {postWM}
       ({year}).
       {title}
-      <span class="italic">{journal}</span>.
+      <br />
+      <span class="italic">{journal}</span>
     {:else}
       {preWM}
       <span class="font-bold">{WM}</span>,
       {postWM}
       ({year}).
       {title}
-      <span class="italic">{journal}</span>.
+      <br />
+      <span class="italic">{journal}</span>
     {/if}
     {#if URL}
       <a href={URL} class="text-fuchsia-400">[PDF]</a>
