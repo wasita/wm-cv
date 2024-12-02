@@ -13,15 +13,8 @@
     <div>
       <h3 class="text-lg font-bold">{school}</h3>
       <p class="text-gray-700">{degree}</p>
-      {#if advisor}
-        <p class="mt-1 text-sm text-gray-700">Advisor: {advisor}</p>
-      {:else if coadvisors}
-        <p class="mt-1 text-sm text-gray-700">Co-advisors: {coadvisors}</p>
-      {/if}
-      {#if committee}
-        <p class="mt-1 text-sm text-gray-700">Committee: {committee}</p>
-      {/if}
     </div>
+
     <div class="text-right">
       <p class="text-black">{date}</p>
       <p class="text-sm text-black">
@@ -29,5 +22,16 @@
         {location}
       </p>
     </div>
+  </div>
+
+  <div>
+    {#if advisor}
+      <p class="mt-1 text-sm text-gray-700">Advisor: {advisor}</p>
+    {:else if coadvisors}
+      <p class="mt-1 text-sm text-gray-700">Co-advisors: {coadvisors}</p>
+    {/if}
+    {#if committee}
+      <p class="mt-1 text-sm text-gray-700">Committee: {committee}</p>
+    {/if}
   </div>
 </div>

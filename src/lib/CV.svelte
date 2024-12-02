@@ -10,14 +10,14 @@
   import Honors from "./components/Honors.svelte";
 </script>
 
-<div class="min-h-screen px-4 py-8 bg-gray-100">
-  <div class="max-w-[21cm] mx-auto bg-white shadow-lg">
+<div class="min-h-screen px-2 py-8 bg-white">
+  <div class="max-w-[22cm] mx-auto bg-white">
     <div id="cv-content" class="p-12">
       <Header
         name="WASITA MAHAPHANIT"
-        email="wasita.gr@dartmouth.edu"
-        website="website"
-        github="github"
+        email="mailto:wasita.gr@dartmouth.edu"
+        website="https://wasita.space"
+        github="https://github.com/wasita"
       />
 
       <ResearchInterests
