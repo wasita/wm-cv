@@ -57,7 +57,7 @@
         />
         <Experience
           title="Lab Manager"
-          department="Brown University | Dept. of Cognitive, Linguistics, & Psychology (CLPS)"
+          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)"
           organization="Laboratory of Neural Computation + Cognition (LNCC)"
           location="Providence, RI"
           date="Jun 2018 — Dec 2020"
@@ -69,7 +69,7 @@
         />
         <Experience
           title="Undergraduate Research Assistant"
-          department="Brown University | Dept. of Cognitive, Linguistics, & Psychology (CLPS)"
+          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)"
           organization="Shenhav Lab"
           location="Providence, RI"
           date="Sept 2016 — Jun 2018"
@@ -138,7 +138,7 @@
         />
         <Teaching
           title="Undergraduate Teaching Assistant"
-          department="Brown University | Dept. of Cognitive, Linguistics, & Psychology (CLPS)"
+          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)"
           location="Providence, RI"
           date="Fall 2017"
           course="Intro to Programming"
