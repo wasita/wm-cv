@@ -3,6 +3,7 @@
   import Section from "./components/Section.svelte";
   import Education from "./components/Education.svelte";
   import Experience from "./components/Experience.svelte";
+  import Teaching from "./components/Teaching.svelte";
   import ResearchInterests from "./components/ResearchInterests.svelte";
 </script>
 
@@ -86,6 +87,59 @@
           details={[
             "Research focuses: major-depressive disorder, post-traumatic stress disorder, rTMS",
           ]}
+        />
+      </Section>
+      <Section title="Teaching Experience">
+        <Teaching
+          title="Graduate Teaching Assistant"
+          department="Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)"
+          location="Hanover, NH"
+          date="Spring 2023"
+          course="Cognitive Psychology"
+          professor="Viola Stoermer"
+        />
+        <Teaching
+          title="Graduate Teaching Assistant"
+          department="Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)"
+          location="Hanover, NH"
+          date="Fall 2022"
+          course="Human Brain Mapping with fMRI"
+          website="https://dartbrains.org"
+          professor="Luke J. Chang"
+        />
+        <Teaching
+          title="Graduate Teaching Assistant"
+          department="Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)"
+          location="Hanover, NH"
+          date="Spring 2022"
+          course="Emotion"
+          professor="Mark Thornton"
+        />
+        <Teaching
+          title="Graduate Teaching Assistant"
+          department="Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)"
+          location="Hanover, NH"
+          date="Fall 2021"
+          course="Human Brain Mapping with fMRI"
+          website="https://dartbrains.org"
+          professor="Luke J. Chang"
+        />
+        <Teaching
+          title="Undergraduate Teaching Assistant"
+          department="Brown University | Dept. of Computer Science"
+          location="Providence, RI"
+          date="Spring 2018"
+          course="Intro to Scientific Computing and Problem Solving"
+          website="https://cs.brown.edu/courses/info/csci0040/"
+          professor="Daniel Potter"
+        />
+        <Teaching
+          title="Undergraduate Teaching Assistant"
+          department="Brown University | Dept. of Cognitive, Linguistics, & Psychology (CLPS)"
+          location="Providence, RI"
+          date="Fall 2017"
+          course="Intro to Programming"
+          professor="Thomas Serre"
         />
       </Section>
     </div>
