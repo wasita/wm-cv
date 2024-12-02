@@ -29,7 +29,7 @@
     {#if poster}
       Presented at the {venue}, {location}.
     {:else}
-      {venue}, {location}
+      {venue}, {location}.
     {/if}
   </div>
 </div>

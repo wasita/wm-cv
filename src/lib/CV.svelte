@@ -7,6 +7,7 @@
   import Teaching from "./components/Teaching.svelte";
   import Papers from "./components/Papers.svelte";
   import Presentations from "./components/Presentations.svelte";
+  import Honors from "./components/Honors.svelte";
 </script>
 
 <div class="min-h-screen px-4 py-8 bg-gray-100">
@@ -394,6 +395,115 @@
           title="Preliminary experience with developing adaptive Deep Brain Stimulation for Obsessive Compulsive Disorder."
           venue="5th Annual BRAIN Initiative Investigators Meeting"
           location="Washington, D.C"
+        />
+      </Section>
+      <Section title="Awards & Honors">
+        <Honors
+          info="Neukom Travel Award | $1,000"
+          details="Dartmouth College"
+          date="July 2025"
+        />
+        <Honors
+          info="Diversity & Inclusion Conference Award | $1,000"
+          details="Cognitive Science Society"
+          date="July 2024"
+        />
+        <Honors
+          info="Neukom Travel Award | $1,000"
+          details="Dartmouth College"
+          date="July 2024"
+        />
+        <Honors
+          info="Neukom Travel Award | $1,000"
+          details="Dartmouth College"
+          date="April 2023"
+        />
+        <Honors
+          info="Honorable Mention"
+          details="NSF Graduate Research Fellowship (GRFP)"
+          date="April 2022"
+        />
+        <Honors info="Inductee" details="Sigma Xi" date="May 2018" />
+        <Honors
+          info="Deep Learning Datathon | 1st Place"
+          details="Brown University"
+          date="January 2018"
+        />
+        <Honors
+          info="National College Match Finalist"
+          details="QuestBridge"
+          date="2014"
+        />
+        <Honors info="College Prep Scholar" details="QuestBridge" date="2013" />
+      </Section>
+
+      <Section title="Fellowships & Scholarships">
+        <Honors
+          info="Undergraduate Teaching & Research Award | $3,500"
+          details="Brown University"
+          date="Summer 2017"
+        ></Honors>
+        <Honors
+          info="Undergraduate Teaching & Research Award | $1,000"
+          details="Brown University"
+          date="Spring 2016"
+        ></Honors>
+        <Honors
+          info="Sorensen Family Chancellor's Scholarship"
+          details="Brown University"
+          date="2015 - 2017"
+        ></Honors>
+        <Honors
+          info="Junior Volunteer Endowment Scholarship | $2,000"
+          details="Maine Medical Center"
+          date="Spring 2014"
+        ></Honors>
+      </Section>
+      <Section title="Scientific & Community Outreach">
+        <Honors
+          info="PBS NOVA | Episode: Who's in Control?"
+          details="Software Engineer for Featured Trust Game & fMRI Operator"
+          date="May 2023"
+        />
+        <Honors
+          info="Svelte Radio | Episode: Svelte in Research at Dartmouth with Wasita & Eshin"
+          details="Podcast Guest"
+          date="April 2023"
+        />
+        <Honors
+          info="Women in Network Science (WiNS) Society"
+          details="Site Maintainer | Website Working Group"
+          date="2022 - Present"
+        />
+        <Honors
+          info="Info Theory Book | cosanlab.github.io/info-theory-book"
+          details="Content Contributor & Site Maintainer"
+          date="2022 - Present"
+        />
+        <Honors
+          info="Intro to fMRI at Dartmouth | dartbrains.org"
+          details="Content Contributor & Site Maintainer"
+          date="2021 - 2023"
+        />
+        <Honors
+          info="Project SHORT"
+          details="Pre-Grad Mentor"
+          date="2020 - 2022"
+        />
+        <Honors
+          info="Honeycomb | brown-ccv.github.io/honeycomb-docs"
+          details="Contributing Software Engineer"
+          date="2019 - 2021"
+        />
+        <Honors
+          info="Rhode Island Brain Week | brainweekri.org"
+          details="Both Organizer"
+          date="2018 - 2020"
+        />
+        <Honors
+          info="Rhode Island Brain Week | brainweekri.org"
+          details="Both Volunteer"
+          date="2017 - 2018"
         />
       </Section>
     </div>
