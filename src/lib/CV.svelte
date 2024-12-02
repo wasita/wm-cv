@@ -11,7 +11,7 @@
 </script>
 
 <div class="min-h-screen px-2 py-8 bg-white">
-  <div class="max-w-[22cm] mx-auto bg-white">
+  <div class="min-w-[4in] max-w-[8.25in] mx-auto bg-white">
     <div id="cv-content" class="p-12">
       <Header
         name="WASITA MAHAPHANIT"

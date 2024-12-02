@@ -15,16 +15,16 @@
     <div>
       <h3 class="text-lg font-bold">{title}</h3>
       {#if department}
-        <p class="text-gray-700">
+        <p class="text-black">
           {department}
         </p>
       {/if}
       {#if website}
-        <p class="text-gray-700">
+        <p class="text-black">
           <a href={website} class="text-fuchsia-400">{organization}</a>
         </p>
       {:else}
-        <p class="text-gray-700">{organization}</p>
+        <p class="text-black">{organization}</p>
       {/if}
     </div>
 
@@ -38,16 +38,16 @@
   </div>
   <div>
     {#if advisor}
-      <p class="mt-1 text-sm text-gray-700">Advisor: {advisor}</p>
+      <p class="mt-1 text-sm text-black">Advisor: {advisor}</p>
     {/if}
     {#if coadvisor}
-      <p class="mt-1 text-sm text-gray-700">
+      <p class="mt-1 text-sm text-black">
         Co-advisors & Collaborators: {coadvisor}
       </p>
     {/if}
   </div>
   {#if details.length > 0}
-    <p class="mt-2 text-sm text-gray-700">
+    <p class="mt-2 text-sm text-black">
       {#each details as detail}
         {detail}<br />
       {/each}

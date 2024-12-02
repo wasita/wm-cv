@@ -7,10 +7,15 @@ export default {
         sans: ['"Helvetica Neue"', 'Arial', 'sans-serif'], // Override sans stack
       },
       colors: {
-        purple: {
-          400: '#C98FDB',
-          500: '#B57ACC',
-          600: '#A165BD'
+        bi: {
+          wisteria: "#be9ee4",
+          magenta: '#a9278c',
+          purple: '#683795',
+          purplest: '#501f5d',
+          cornflower: '#7587dc',
+          blue: '#3e57b8',
+          navy: '#2d2485',
+          naviest: '#13154d'
         }
       }
     },
