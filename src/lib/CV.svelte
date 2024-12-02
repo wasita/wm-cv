@@ -462,46 +462,55 @@
       <Section title="Scientific & Community Outreach">
         <Honors
           info="PBS NOVA | Episode: Who's in Control?"
+          URL="https://www.youtube.com/watch?v=yQ6VOOd73MA"
           details="Software Engineer for Featured Trust Game & fMRI Operator"
           date="May 2023"
         />
         <Honors
           info="Svelte Radio | Episode: Svelte in Research at Dartmouth with Wasita & Eshin"
+          URL="https://open.spotify.com/episode/3JzRDzPOylvhBSIj7jZLDz?si=9S9qbaU5SF-GzaTJPtZl_g"
           details="Podcast Guest"
           date="April 2023"
         />
         <Honors
           info="Women in Network Science (WiNS) Society"
+          URL="https://sites.google.com/view/womeninnetworkscience/society/membership/membership-list?authuser=0"
           details="Site Maintainer | Website Working Group"
           date="2022 - Present"
         />
         <Honors
-          info="Info Theory Book | cosanlab.github.io/info-theory-book"
+          info="Info Theory Book"
+          URL="https://cosanlab.github.io/info-theory-book"
           details="Content Contributor & Site Maintainer"
           date="2022 - Present"
         />
         <Honors
-          info="Intro to fMRI at Dartmouth | dartbrains.org"
+          info="Intro to fMRI at Dartmouth"
+          URL="https://dartbrains.org"
           details="Content Contributor & Site Maintainer"
           date="2021 - 2023"
         />
         <Honors
           info="Project SHORT"
+          URL="https://www.project-short.com"
           details="Pre-Grad Mentor"
           date="2020 - 2022"
         />
         <Honors
-          info="Honeycomb | brown-ccv.github.io/honeycomb-docs"
+          info="Honeycomb"
+          URL="https://brown-ccv.github.io/honeycomb-docs"
           details="Contributing Software Engineer"
           date="2019 - 2021"
         />
         <Honors
-          info="Rhode Island Brain Week | brainweekri.org"
+          info="Rhode Island Brain Week"
+          URL="https://brainweekri.org"
           details="Booth Organizer"
           date="2018 - 2020"
         />
         <Honors
-          info="Rhode Island Brain Week | brainweekri.org"
+          info="Rhode Island Brain Week"
+          URL="https://brainweekri.org"
           details="Booth Volunteer"
           date="2017 - 2018"
         />
