@@ -3,6 +3,9 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['"Helvetica Neue"', 'Arial', 'sans-serif'], // Override sans stack
+      },
       colors: {
         purple: {
           400: '#C98FDB',
