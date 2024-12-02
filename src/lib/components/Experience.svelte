@@ -21,7 +21,7 @@
       {/if}
       {#if website}
         <p class="text-gray-700">
-          <a href={website} class="text-purple-400 hover:text-purple-500"
+          <a href={website} class="text-purple-400 hover:text-sky-200"
             >{organization}</a
           >
         </p>

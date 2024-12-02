@@ -29,10 +29,10 @@
     </div>
   </div>
   <div>
-    <p class="mt-1 text-sm text-gray-700">
+    <p class="mt-1 text-gray-700">
       {#if website}
         <p class="text-gray-700">
-          <a href={website} class="text-purple-400 hover:text-purple-500"
+          <a href={website} class="text-purple-400 hover:text-blue-300"
             >{course}</a
           >
         </p>
