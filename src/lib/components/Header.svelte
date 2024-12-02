@@ -1,17 +1,19 @@
 <script lang="ts">
-  export let name: string;
-  export let email: string;
-  export let website: string;
-  export let github: string;
+  export let name: string = "";
+  export let email: string = "";
+  export let website: string = "";
+  export let github: string = "";
 </script>
 
-<div class="text-center mb-12">
-  <h1 class="text-5xl font-light text-purple-400 tracking-wide mb-4">{name}</h1>
-  <div class="text-gray-600 flex justify-center gap-4">
-    <a href="mailto:{email}" class="hover:text-purple-400">{email}</a>
+<div class="mb-12 text-center">
+  <h1 class="mb-4 text-5xl font-semibold tracking-wide text-purple-400">
+    {name}
+  </h1>
+  <div class="flex justify-center gap-4 text-gray-600">
+    <a href="mailto:{email}" class="text-indigo-300">{email}</a>
     <span>|</span>
-    <a href={website} class="hover:text-purple-400">website</a>
+    <a href={website} class="text-indigo-300">website</a>
     <span>|</span>
-    <a href={github} class="hover:text-purple-400">github</a>
+    <a href={github} class="text-indigo-300">github</a>
   </div>
 </div>

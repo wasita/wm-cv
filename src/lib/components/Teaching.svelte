@@ -1,7 +1,7 @@
 <script lang="ts">
-  export let title: string;
-  export let location: string;
-  export let date: string;
+  export let title: string = "";
+  export let location: string = "";
+  export let date: string = "";
   export let department: string = "";
   export let website: string = ""; // Default to empty string to avoid errors
   export let course: string = "";

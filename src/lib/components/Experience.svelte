@@ -1,8 +1,8 @@
 <script lang="ts">
-  export let title: string;
-  export let organization: string;
-  export let location: string;
-  export let date: string;
+  export let title: string = "";
+  export let organization: string = "";
+  export let location: string = "";
+  export let date: string = "";
   export let department: string = "";
   export let website: string = ""; // Default to empty string to avoid errors
   export let advisor: string = ""; // Default to empty string
@@ -21,9 +21,7 @@
       {/if}
       {#if website}
         <p class="text-gray-700">
-          <a href={website} class="text-purple-400 hover:text-sky-200"
-            >{organization}</a
-          >
+          <a href={website} class="text-purple-400">{organization}</a>
         </p>
       {:else}
         <p class="text-gray-700">{organization}</p>

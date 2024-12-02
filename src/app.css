@@ -8,3 +8,16 @@
     size: A4;
   }
 }
+
+a:hover {
+    background: radial-gradient(
+        ellipse at bottom,
+        #fcb6ce, /* equivalent to pink-300 */
+        #d4a8d8, /* equivalent to purple-300 */
+        #9fa7f2  /* equivalent to indigo-400 */
+    );
+    text-shadow: -0.15em 0.15em 0.42em rgba(142, 233, 255, 0.7), 0.15em -0.15em 0.31em #fff,
+        -0.15em -0.15em 1.3em #fff;
+    color: var(--global-hover-color);
+    transition: all 0.1s ease-in-out 0s;
+}

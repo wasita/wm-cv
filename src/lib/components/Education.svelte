@@ -1,8 +1,8 @@
 <script lang="ts">
-  export let school: string;
-  export let degree: string;
-  export let location: string;
-  export let date: string;
+  export let school: string = "";
+  export let degree: string = "";
+  export let location: string = "";
+  export let date: string = "";
   export let committee: string = "";
   export let advisor: string = "";
   export let coadvisors: string = "";
