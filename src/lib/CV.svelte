@@ -515,6 +515,60 @@
           date="2017 - 2018"
         />
       </Section>
+      <Section title="Research Training">
+        <Honors
+          info="Methods in Neuroscience at Dartmouth (MIND) Summer School"
+          details="Dartmouth College"
+          date="2023"
+        />
+        <Honors
+          info="Computational Neuroscience"
+          details="Neuromatcha Academy (NMA)"
+          date="2021"
+        />
+        <Honors
+          info="Carney Computational Modeling Workshop"
+          details="Brown University"
+          date="2018"
+        />
+      </Section>
+      <Section title="Professional & Deprtmental Service">
+        <Honors
+          info="Social Lab (SLAB) Talk Series Co-Organizer"
+          details="Dartmouth College | PBS"
+          date="2021 - 2024"
+        />
+        <Honors
+          info="Consortium for Interacting Minds (CIM) Talk Series Co-Organizer"
+          details="Dartmouth College | PBS"
+          date="2021 - 2024"
+        />
+        <Honors
+          info="Teaching Assistant Repository Creation & Organization Committee"
+          details="Dartmouth College | PBS"
+          date="2022 - 2023"
+        />
+        <Honors
+          info="Meeting Harmonization Committee"
+          details="Dartmouth College | PBS"
+          date="2021 - 2023"
+        />
+        <Honors
+          info="Transitioning from Intro to Programming to Career in Computation | Alumni Panelist"
+          details="Brown University | CLPS"
+          date="2021"
+        />
+        <Honors
+          info="Managing Minds (Lab Manager Peer Mentoring Group) | Founder & Organizer"
+          details="Brown University | CLPS & Carney Institute"
+          date="2019 - 2021"
+        />
+        <Honors
+          info="Cognitive Neuroscience DUG Alumni Career Panelist"
+          details="Brown University | CLPS"
+          date="2018"
+        />
+      </Section>
     </div>
   </div>
 </div>
