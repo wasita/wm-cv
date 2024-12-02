@@ -497,12 +497,12 @@
         />
         <Honors
           info="Rhode Island Brain Week | brainweekri.org"
-          details="Both Organizer"
+          details="Booth Organizer"
           date="2018 - 2020"
         />
         <Honors
           info="Rhode Island Brain Week | brainweekri.org"
-          details="Both Volunteer"
+          details="Booth Volunteer"
           date="2017 - 2018"
         />
       </Section>
