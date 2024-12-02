@@ -21,7 +21,7 @@
       {/if}
       {#if website}
         <p class="text-gray-700">
-          <a href={website} class="text-purple-400">{organization}</a>
+          <a href={website} class="text-fuchsia-400">{organization}</a>
         </p>
       {:else}
         <p class="text-gray-700">{organization}</p>

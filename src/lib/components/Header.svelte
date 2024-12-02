@@ -6,7 +6,7 @@
 </script>
 
 <div class="mb-12 text-center">
-  <h1 class="mb-4 text-5xl font-semibold tracking-wide text-purple-400">
+  <h1 class="mb-4 text-5xl font-semibold tracking-wide text-fuchsia-400">
     {name}
   </h1>
   <div class="flex justify-center gap-4 text-gray-600">

@@ -280,7 +280,7 @@
         <Presentations
           year="October 2021"
           title="On building a chat app for studying shared reality construction and communication."
-          venue="Social Lab (SLAB) Talk Series at Dartmouth College"
+          venue="Social Lab (SLAB) Talk Series"
           location="Dartmouth College, Hanover, NH"
         />
         <Presentations

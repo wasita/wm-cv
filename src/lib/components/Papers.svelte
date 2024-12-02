@@ -25,7 +25,7 @@
       <span class="italic">{journal}</span>.
     {/if}
     {#if URL}
-      <a href={URL} class="text-purple-400">[PDF]</a>
+      <a href={URL} class="text-fuchsia-400">[PDF]</a>
     {/if}
   </div>
 </div>
