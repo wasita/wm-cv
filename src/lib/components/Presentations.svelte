@@ -18,7 +18,11 @@
       {title}
     {:else}
       {preWM}
-      <span class="font-bold">{WM}</span>,
+      {#if poster}
+        <span class="font-bold">{WM}</span>,
+      {:else}
+        <span class="font-bold">{WM}</span>
+      {/if}
       {postWM} ({year}).
       {title}
     {/if}
