@@ -15,7 +15,7 @@
     <div id="cv-content" class="p-12">
       <Header
         name="WASITA MAHAPHANIT"
-        email="mailto:wasita.gr@dartmouth.edu"
+        email="wasita.gr@dartmouth.edu"
         website="https://wasita.space"
         github="https://github.com/wasita"
       />
