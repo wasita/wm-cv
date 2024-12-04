@@ -99,7 +99,7 @@
           location="Hanover, NH"
           date="Spring 2023"
           course="Cognitive Psychology"
-          professor="Viola Stoermer"
+          professor="Viola Störmer"
         />
         <Teaching
           title="Graduate Teaching Assistant"
@@ -206,8 +206,8 @@
           preWM="Provenza, N.R., Gelin, L.,"
           postWM="McGrath, M., Dastin-van Rijin, E., Fan, Y., Dhar, R., Frank, M.J., Restrepo, M.I., Goodman, W.K., and Borton, D."
           year="2021"
-          title="Honeycomb: a template forreproducible psychophysiological tasks for clinic, laboratory, and home use."
-          journal="Brazillian Journal of Psychiatry"
+          title="Honeycomb: a template for reproducible psychophysiological tasks for clinic, laboratory, and home use."
+          journal="Brazilian Journal of Psychiatry"
           URL="https://pmc.ncbi.nlm.nih.gov/articles/PMC9041958/pdf/bjp-44-02-147.pdf"
         />
       </Section>
@@ -300,7 +300,7 @@
         <Presentations
           year="June 2020"
           title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
-          venue="Brown Uncomference on Computational Intelligence and Applications"
+          venue="Brown Unconference on Computational Intelligence and Applications"
           location="Brown University, Providence, RI"
         />
         <Presentations
@@ -386,7 +386,7 @@
           year="July 2019"
           postWM="Geana, A., & Frank, M.J."
           title="Perceptual uncertainty influences stimulus value learning in perceptual categorization."
-          venue="4th Multidisplinary conference on Reinforcement Learning and Decision Making (RLDM)"
+          venue="4th Multidisciplinary conference on Reinforcement Learning and Decision Making (RLDM)"
           location="Montreal, CA"
         />
         <Presentations
@@ -425,7 +425,11 @@
           details="NSF Graduate Research Fellowship (GRFP)"
           date="April 2022"
         />
-        <Honors info="Inductee" details="Sigma Xi" date="May 2018" />
+        <Honors
+          info="Inductee"
+          details="Sigma Xi Honor Society"
+          date="May 2018"
+        />
         <Honors
           info="Deep Learning Datathon | 1st Place"
           details="Brown University"
@@ -527,7 +531,7 @@
         <Honors
           info="Computational Neuroscience"
           URL="https://compneuro.neuromatch.io/tutorials/intro.html"
-          details="Neuromatcha Academy (NMA)"
+          details="Neuromatch Academy (NMA)"
           date="2021"
         />
         <Honors
@@ -537,7 +541,7 @@
           date="2018"
         />
       </Section>
-      <Section title="Professional & Deprtmental Service">
+      <Section title="Professional & Departmental Service">
         <Honors
           info="Social Lab (SLAB) Talk Series Co-Organizer"
           details="Dartmouth College | PBS"
