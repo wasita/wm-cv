@@ -216,7 +216,7 @@
         <Presentations
           year="November 2024"
           title="Inferring commonalities in social interactions."
-          venue="Crockett Lab Meeting (PI: Molly Crockett)"
+          venue="Lab Meeting (PI: Molly Crockett)"
           location="Princeton University, Princeton, NJ"
         />
         <Presentations
@@ -234,7 +234,7 @@
         <Presentations
           year="December 2023"
           title="Web dev approaches to studying social interactions."
-          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins)"
+          venue="Lab Meeting (PI: Robert D. Hawkins)"
           location="Virtual"
         />
         <Presentations
@@ -246,13 +246,13 @@
         <Presentations
           year="October 2023"
           title="Learning to communicate a shared wavelength."
-          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins)"
+          venue="Lab Meeting (PI: Robert D. Hawkins)"
           location="Virtual"
         />
         <Presentations
           year="October 2023"
           title="Does shared reality generalize?"
-          venue="Social Interaction Lab Meeting (PI: Robert D. Hawkins)"
+          venue="Lab Meeting (PI: Robert D. Hawkins)"
           location="Virtual"
         />
         <Presentations
@@ -288,7 +288,7 @@
         <Presentations
           year="December 2020"
           title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
-          venue="Learning, Memory, & Decision Lab Meeting (PI: Matt Nassar)"
+          venue="Lab Meeting (PI: Matt Nassar)"
           location="Brown University, Providence, RI"
         />
         <Presentations
