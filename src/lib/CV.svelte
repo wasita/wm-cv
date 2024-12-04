@@ -541,6 +541,21 @@
           date="2018"
         />
       </Section>
+      <Section title="Mentorship">
+        <Honors info="Eli Bailit (Dartmouth College)" date="2024" />
+        <Honors info="Helen Horan (Dartmouth College)" date="2022" />
+        <Honors info="Jonathan Lim (Dartmouth College)" date="2022" />
+        <Honors
+          info="Cleveland (Rob) Chambliss (Brown University)"
+          date="2018 - 2019"
+        />
+        <Honors info="Caroline Hunt (Brown University)" date="2018 - 2019" />
+        <Honors
+          info="Juan Muneton Gallego (Brown University)"
+          date="2018 - 2019"
+        />
+        <Honors info="Hattie Xu (Brown University)" date="2017 - 2018" />
+      </Section>
       <Section title="Professional & Departmental Service">
         <Honors
           info="Social Lab (SLAB) Talk Series Co-Organizer"
