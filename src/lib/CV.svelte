@@ -578,6 +578,14 @@
           date="2018"
         />
       </Section>
+      <Section title="Ad Hoc Review">
+        <Honors info="Proceedings of the Cognitive Science Society" />
+        <Honors info="Proceedings on Cognitive Computational Neuroscience" />
+        <Honors
+          info="Cyberpsychology: Journal of Psychosocial Research on Cyberspace"
+        />
+        <Honors info="Inquisitive Mind (In-Mind) Magazine International" />
+      </Section>
     </div>
   </div>
 </div>
