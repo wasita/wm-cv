@@ -32,7 +32,7 @@
     <p class="mt-1 text-black">
       {#if website}
         <p class="text-black">
-          <a href={website} class="text-fuchsia-400">{course}</a>
+          <a href={website} class="text-teal-400">{course}</a>
         </p>
       {:else}
         {course}

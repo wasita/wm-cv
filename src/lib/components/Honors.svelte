@@ -9,7 +9,7 @@
   <div class="flex items-start justify-between">
     <div>
       {#if URL}
-        <a href={URL} class="text-fuchsia-400">{info}</a>
+        <a href={URL} class="text-teal-400">{info}</a>
       {:else}
         {info}
       {/if}
