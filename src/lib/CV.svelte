@@ -45,7 +45,7 @@
       <Section title="Research Experience">
         <Experience
           title="Doctoral Researcher"
-          department="Dartmouth College | Dept. of Psychological & Brain Sciences"
+          department="Dartmouth College | Psychological & Brain Sciences"
           organization="Computational Social Affective Neuroscience (COSAN) Lab"
           location="Hanover, NH"
           date="Jan 2021 — Present"
@@ -57,7 +57,7 @@
         />
         <Experience
           title="Lab Manager"
-          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences"
+          department="Brown University | Cognitive, Linguistic, & Psychological Sciences"
           organization="Laboratory of Neural Computation + Cognition (LNCC)"
           location="Providence, RI"
           date="Jun 2018 — Dec 2020"
@@ -69,7 +69,7 @@
         />
         <Experience
           title="Undergraduate Research Assistant"
-          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences"
+          department="Brown University | Cognitive, Linguistic, & Psychological Sciences"
           organization="Shenhav Lab"
           location="Providence, RI"
           date="Sept 2016 — Jun 2018"
