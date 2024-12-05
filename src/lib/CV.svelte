@@ -57,7 +57,7 @@
         />
         <Experience
           title="Lab Manager"
-          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)"
+          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences"
           organization="Laboratory of Neural Computation + Cognition (LNCC)"
           location="Providence, RI"
           date="Jun 2018 — Dec 2020"
@@ -69,7 +69,7 @@
         />
         <Experience
           title="Undergraduate Research Assistant"
-          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences (CLPS)"
+          department="Brown University | Dept. of Cognitive, Linguistic, & Psychological Sciences"
           organization="Shenhav Lab"
           location="Providence, RI"
           date="Sept 2016 — Jun 2018"
@@ -84,7 +84,7 @@
           department="Providence VA Medical Center"
           organization="Psychiatric Neuromodulation Clinic"
           location="Providence, RI"
-          date="May 2016 — Jun 2016"
+          date="May 2016 — July 2016"
           website="https://vivo.brown.edu/display/nphilip"
           advisor="Noah S. Phillips"
           details={[
