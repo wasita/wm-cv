@@ -222,7 +222,7 @@
         <Presentations
           year="April 2025"
           title="Inferring commonalities in social interactions."
-          venue="Lab Meeting (PI: Elia Baek)"
+          venue="Lab Meeting (PI: Elisa Baek)"
           location="University of Southern California, Los Angeles, CA"
         />
         <Presentations
