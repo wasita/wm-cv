@@ -21,7 +21,13 @@
       />
 
       <ResearchInterests
-        description="How can we effectively collaborate with others and enhance our understanding of the world, given our unique viewpoints and incomplete access to information? In other words, how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? What role does communication and other types of interaction play in this collaborative effort, and how are these processes computationally supported? To investigate these questions, I primarily use large-scale real-time online behavioral experiments, natural language processing (NLP), and computational modeling."
+        description="How can we effectively collaborate with others and enhance our understanding of the world, 
+        given our unique viewpoints and incomplete access to information? In other words, 
+        how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? 
+        What role does communication and other types of interaction play in this collaborative effort, 
+        and how are these processes computationally supported? To investigate these questions, 
+        I primarily use large-scale real-time online behavioral experiments, 
+        natural language processing (NLP), and computational modeling."
       />
 
       <Section title="Education">
@@ -213,6 +219,12 @@
       </Section>
 
       <Section title="Talks">
+        <Presentations
+          year="April 2025"
+          title="Inferring commonalities in social interactions."
+          venue="Lab Meeting (PI: Elia Baek)"
+          location="University of Southern California, Los Angeles, CA"
+        />
         <Presentations
           year="November 2024"
           title="Inferring commonalities in social interactions."
