@@ -326,6 +326,15 @@
         <Presentations
           poster={true}
           twoAuthors={true}
+          year="May 2025"
+          postWM="Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D."
+          title="Formalizing the inferential process underlying shared reality construction."
+          venue="Trends in Psychological Science (TiPS) conference"
+          location="Harvard University, Cambridge, MA"
+        />
+        <Presentations
+          poster={true}
+          twoAuthors={true}
           year="September 2024"
           postWM="Chang, L.J."
           title="Shared experiences increase social connection."
