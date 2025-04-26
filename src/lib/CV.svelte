@@ -158,8 +158,7 @@
           title="When & why do we infer commonalities in social interactions?"
         />
         <Papers
-          twoAuthors={true}
-          postWM="Chang, L.J."
+          postWM="Templeton, E., & Chang, L.J."
           title="Are shared experiences blind?"
         />
         <Papers
@@ -323,6 +322,14 @@
         />
       </Section>
       <Section title="Posters">
+        <Presentations
+          poster={true}
+          year="July 2025"
+          postWM="Hawkins, R.D., Phillips, J.S., & Chang, L.J."
+          title="Learning to communicate a shared wavelength."
+          venue="Cognitive Science (CogSci) Society conference"
+          location="San Francisco, CA"
+        />
         <Presentations
           poster={true}
           twoAuthors={true}
