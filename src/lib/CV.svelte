@@ -332,10 +332,9 @@
         />
         <Presentations
           poster={true}
-          twoAuthors={true}
           year="May 2025"
           postWM="Welker, C., Schmidt, H., Chang, L.J., & Hawkins, R.D."
-          title="Formalizing the inferential process underlying shared reality construction."
+          title="When & why do we infer commonalities in social interactions?"
           venue="Trends in Psychological Science (TiPS) conference"
           location="Harvard University, Cambridge, MA"
         />
