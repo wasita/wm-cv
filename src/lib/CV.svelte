@@ -624,6 +624,7 @@
       <Section title="Ad Hoc Review">
         <Honors info="Proceedings of the Cognitive Science Society" />
         <Honors info="Proceedings on Cognitive Computational Neuroscience" />
+        <Honors info="Nature Scientific Reports" />
         <Honors
           info="Cyberpsychology: Journal of Psychosocial Research on Cyberspace"
         />
