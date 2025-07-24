@@ -10,7 +10,7 @@
   import Honors from "./components/Honors.svelte";
 </script>
 
-<div class="min-h-screen px-2 py-8 bg-white">
+<div class="px-2 py-8 min-h-screen bg-white">
   <div class="min-w-[4in] max-w-[8.25in] mx-auto bg-white">
     <div id="cv-content" class="p-12">
       <Header
@@ -325,7 +325,7 @@
         <Presentations
           poster={true}
           year="July 2025"
-          postWM="Hawkins, R.D., Phillips, J.S., & Chang, L.J."
+          postWM="Keller, B., Phillips, J.S., Hawkins, R.D., & Chang, L.J."
           title="Learning to communicate a shared wavelength."
           venue="Cognitive Science (CogSci) Society conference"
           location="San Francisco, CA"
