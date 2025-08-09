@@ -569,7 +569,11 @@
         />
       </Section>
       <Section title="Mentorship">
-        <Honors info="Ben Keller (Dartmouth College)" date="2025 - Present" />
+        <Honors
+          info="Chelsea Mills (Dartmouth College)"
+          date="2025 - Present"
+        />
+        <Honors info="Ben Keller (Dartmouth College)" date="2025" />
         <Honors info="Eli Bailit (Dartmouth College)" date="2024" />
         <Honors info="Helen Horan (Dartmouth College)" date="2022" />
         <Honors info="Jonathan Lim (Dartmouth College)" date="2022" />
