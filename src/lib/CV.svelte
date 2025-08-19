@@ -548,7 +548,13 @@
           date="2017 - 2018"
         />
       </Section>
-      <Section title="Research Training">
+      <Section title="Additional Research Training">
+        <Honors
+          info="Computational Summer school on Modeling Social and collective behavior (COSMOS)"
+          URL="https://cosmossummerschool.github.io"
+          details="RIKEN Center for Brain Science, Tokyo, Japan"
+          date="2025"
+        />
         <Honors
           info="Methods in Neuroscience at Dartmouth (MIND) Summer School"
           URL="https://mindsummerschool.org"
