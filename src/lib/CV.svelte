@@ -219,6 +219,12 @@
 
       <Section title="Talks">
         <Presentations
+          year="September 2025"
+          title="Escaping Flatland: From isolated minds to interacting ones."
+          venue="Lab Meeting (PI: Mark Ho)"
+          location="New York University, New York, NY"
+        />
+        <Presentations
           year="April 2025"
           title="Inferring commonalities in social interactions."
           venue="Lab Meeting (PI: Elisa Baek)"
