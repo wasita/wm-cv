@@ -22,7 +22,7 @@
 
       <ResearchInterests
         description="How do people build shared understanding through real-time interaction, despite having unique viewpoints and incomplete information? I study how we leap from sparse social signals to rich inferences about others' minds, how we coordinate on meaning when everyone brings different interpretative frameworks, and how these dynamic processes create social connection.
-        To investigate these questions, I develop interactive web-based paradigms that capture the richness of actual social interaction while maintaining experimental control. I combine these with natural language processing (NLP) and computational cognitive modeling (primarily Bayesian inference)."
+        To investigate these questions, I develop interactive web-based paradigms that capture the richness of actual social interaction while maintaining experimental control. I combine these multiplayer web apps with natural language processing (NLP) and computational cognitive modeling (primarily Bayesian inference)."
       />
 
       <Section title="Education">
