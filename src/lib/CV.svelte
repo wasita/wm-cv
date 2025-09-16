@@ -21,13 +21,8 @@
       />
 
       <ResearchInterests
-        description="How can we effectively collaborate with others and enhance our understanding of the world, 
-        given our unique viewpoints and incomplete access to information? In other words, 
-        how do we adaptively interact with others and improve our mental models of the world in the face of uncertainty? 
-        What role does communication and other types of interaction play in this collaborative effort, 
-        and how are these processes computationally supported? To investigate these questions, 
-        I primarily use large-scale real-time online behavioral experiments, 
-        natural language processing (NLP), and computational modeling."
+        description="How do people build shared understanding through real-time interaction, despite having unique viewpoints and incomplete information? I study how we leap from sparse social signals to rich inferences about others' minds, how we coordinate on meaning when everyone brings different interpretative frameworks, and how these dynamic processes create social connection.
+        To investigate these questions, I develop interactive web-based paradigms that capture the richness of actual social interaction while maintaining experimental control. I combine these with natural language processing (NLP) and computational cognitive modeling (primarily Bayesian inference)."
       />
 
       <Section title="Education">
