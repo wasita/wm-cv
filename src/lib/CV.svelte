@@ -429,6 +429,11 @@
       </Section>
       <Section title="Awards & Honors">
         <Honors
+          info="Best Poster Award | Runner-up"
+          details="COSMOS Summer School"
+          date="September 2025"
+        />
+        <Honors
           info="Neukom Travel Award | $1,000"
           details="Dartmouth College"
           date="July 2025"
@@ -551,7 +556,7 @@
       </Section>
       <Section title="Additional Research Training">
         <Honors
-          info="Computational Summer school on Modeling Social and collective behavior (COSMOS)"
+          info="Computational Summer School on Modeling Social and Collective Behavior (COSMOS)"
           URL="https://cosmossummerschool.github.io"
           details="RIKEN Center for Brain Science, Tokyo, Japan"
           date="2025"
