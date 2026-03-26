@@ -32,7 +32,7 @@
           location="Hanover, NH"
           date="Jan 2021 — Present"
           advisor="Luke J. Chang"
-          committee="Luke J. Chang, Jonathan S. Phillips, Thalia Wheatley, & Robert D. Hawkins"
+          committee="Luke Chang, Jonathan Phillips, Thalia Wheatley, & Robert Hawkins"
         />
         <Education
           school="Brown University"
@@ -51,7 +51,7 @@
           location="Hanover, NH"
           date="Jan 2021 — Present"
           website="https://cosanlab.com"
-          coadvisor="Luke J. Chang & Robert D. Hawkins"
+          coadvisor="Luke Chang & Robert Hawkins"
           details={[
             "Research focuses: shared experience, collaboration, communication, theory of mind, dyadic & group social interactions, NLP, Bayesian inference",
           ]}
@@ -148,12 +148,15 @@
       </Section>
       <Section title="Working Papers">
         <Papers
-          WM="Mahaphanit, W.*"
-          postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
-          title="When & why do we infer commonalities in social interactions?"
+          postWM="Mills, K., & Chang, L.J."
+          title="Beyond Self-Disclosure: A Hierarchy of Cumulative Relational Depth Predicts Social Connection."
         />
         <Papers
           postWM="Templeton, E., & Chang, L.J."
+          title="Experimentally-induced small gaps in conversation lead to stronger connection in strangers."
+        />
+        <Papers
+          postWM="Mills, K., Templeton, E., & Chang, L.J."
           title="Are shared experiences blind?"
         />
         <Papers
@@ -161,13 +164,14 @@
           postWM="Chang, L.J."
           title="Communication as behavioral annotation for naturalistic stimuli."
         />
-        <Papers
-          preWM="Kang, J.,"
-          postWM="Provenza, N., Nassar, M., Allam, A., Bechtold, R., Diab, N., Rajesh, S., Reddy S., Reyes, G., Dastin-van Rijn, E., Gandhi, A., Hirani, S., Banks, G., Dang, H., Avendano-Ortega, M., McKay, S., Borton, D., Frank, M.J., Storch, E., Herron, J., Goodman, W., Hayden, B., & Sheth, S."
-          title="The effect of adaptive deep brain stimulation for obsessive-compulsive disorder in cognitive self-control under uncertainty."
-        />
       </Section>
       <Section title="Preprints">
+        <Papers
+          WM="Mahaphanit, W.*"
+          postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
+          title="Generalized shared reality arises in brief interactions from structured social inferences about commonality."
+          URL="https://osf.io/preprints/psyarxiv/3xzpe_v2"
+        />
         <Papers
           WM="Mahaphanit, W.*"
           postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
@@ -213,6 +217,12 @@
       </Section>
 
       <Section title="Talks">
+        <Presentations
+          year="March 2026"
+          title="Signals of Compatibility: How Commonality Becomes Connection."
+          venue="Shared Reality Virtual Conference"
+          location="Virtual"
+        />
         <Presentations
           year="September 2025"
           title="Escaping Flatland: From isolated minds to interacting ones."
