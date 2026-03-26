@@ -216,7 +216,7 @@
         />
       </Section>
 
-      <Section title="Talks">
+      <Section title="Invited Talks">
         <Presentations
           year="March 2026"
           title="Signals of Compatibility: How Commonality Becomes Connection."
@@ -242,18 +242,6 @@
           location="Princeton University, Princeton, NJ"
         />
         <Presentations
-          year="July 2024"
-          title="When & why does shared reality generalize?"
-          venue="Cognitive Science (CogSci) Society conference"
-          location="Rotterdam, Netherlands"
-        />
-        <Presentations
-          year="February 2024"
-          title="Are shared experiences blind?"
-          venue="Shared Reality Mini-Conference"
-          location="Virtual"
-        />
-        <Presentations
           year="December 2023"
           title="Web dev approaches to studying social interactions."
           venue="Lab Meeting (PI: Robert D. Hawkins)"
@@ -277,6 +265,42 @@
           venue="Lab Meeting (PI: Robert D. Hawkins)"
           location="Virtual"
         />
+        <Presentations
+          year="December 2020"
+          title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
+          venue="Lab Meeting (PI: Matt Nassar)"
+          location="Brown University, Providence, RI"
+        />
+      </Section>
+
+      <Section title="Conference Talks">
+        <Presentations
+          year="July 2024"
+          title="When & why does shared reality generalize?"
+          venue="Cognitive Science (CogSci) Society conference"
+          location="Rotterdam, Netherlands"
+        />
+        <Presentations
+          year="February 2024"
+          title="Are shared experiences blind?"
+          venue="Shared Reality Mini-Conference"
+          location="Virtual"
+        />
+        <Presentations
+          year="November 2020"
+          title="Intro to Honeycomb: a template for reproducible psychophysiological task creation."
+          venue="Center for Computation & Visualization (CCV) tutorial series"
+          location="Brown University, Providence, RI"
+        />
+        <Presentations
+          year="June 2020"
+          title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
+          venue="Brown Unconference on Computational Intelligence and Applications"
+          location="Brown University, Providence, RI"
+        />
+      </Section>
+
+      <Section title="Misc. Talks">
         <Presentations
           year="September 2023"
           title="Learning to collaboratively communicate a shared wavelength."
@@ -308,30 +332,13 @@
           location="Dartmouth College, Hanover, NH"
         />
         <Presentations
-          year="December 2020"
-          title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
-          venue="Lab Meeting (PI: Matt Nassar)"
-          location="Brown University, Providence, RI"
-        />
-        <Presentations
-          year="November 2020"
-          title="Intro to Honeycomb: a template for reproducible psychophysiological task creation."
-          venue="Center for Computation & Visualization (CCV) tutorial series"
-          location="Brown University, Providence, RI"
-        />
-        <Presentations
-          year="June 2020"
-          title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
-          venue="Brown Unconference on Computational Intelligence and Applications"
-          location="Brown University, Providence, RI"
-        />
-        <Presentations
           year="May 2018"
           title="The costs of having better alternatives."
           venue="Departmental undergraduate honors thesis oral defense presentation"
           location="Brown University, Providence, RI"
         />
       </Section>
+
       <Section title="Posters">
         <Presentations
           poster={true}
