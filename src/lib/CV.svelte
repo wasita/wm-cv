@@ -183,6 +183,14 @@
       </Section>
       <Section title="Proceedings Papers">
         <Papers
+          preWM="Brockbank, E., Ranck, N., O'Keeffe, M."
+          postWM="Gerstenberg, T., Fan, J., & Hawkins, R.D."
+          year="2026"
+          title="Asking the right questions? What people learn about strangers in conversation?"
+          journal="Proceedings of the 46th Annual Conference of the Cognitive Science (CogSci) Society"
+          URL=""
+        />
+        <Papers
           WM="Mahaphanit, W.*"
           postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
           year="2024"
