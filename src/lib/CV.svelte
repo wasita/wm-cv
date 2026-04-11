@@ -227,12 +227,6 @@
 
       <Section title="Invited Talks">
         <Presentations
-          year="March 2026"
-          title="Signals of Compatibility: How Commonality Becomes Connection."
-          venue="Shared Reality Virtual Conference"
-          location="Virtual"
-        />
-        <Presentations
           year="September 2025"
           title="Escaping Flatland: From isolated minds to interacting ones."
           venue="Lab Meeting (PI: Mark Ho)"
@@ -283,6 +277,12 @@
       </Section>
 
       <Section title="Conference Talks">
+        <Presentations
+          year="March 2026"
+          title="Signals of Compatibility: How Commonality Becomes Connection."
+          venue="Shared Reality Virtual Conference"
+          location="Virtual"
+        />
         <Presentations
           year="July 2024"
           title="When & why does shared reality generalize?"
