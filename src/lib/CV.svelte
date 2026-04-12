@@ -184,7 +184,7 @@
       </Section>
       <Section title="Proceedings Papers">
         <Papers
-          preWM="Brockbank, E., Ranck, N., O'Keeffe, M."
+          preWM="Brockbank, E., Ranck, N., O'Keeffe, M.,"
           postWM="Gerstenberg, T., Fan, J., & Hawkins, R.D."
           year="2026"
           title="Asking the right questions? What people learn about strangers in conversation?"
