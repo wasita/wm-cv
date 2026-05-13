@@ -5,6 +5,9 @@
   export let date: string = "";
   export let department: string = "";
   export let website: string = ""; // Default to empty string to avoid errors
+  export let department2: string = "";
+  export let organization2: string = "";
+  export let website2: string = "";
   export let advisor: string = ""; // Default to empty string
   export let coadvisor: string = ""; // Default to empty string
   export let details: string[] = []; // Default to an empty array
@@ -25,6 +28,20 @@
         </p>
       {:else}
         <p class="text-black">{organization}</p>
+      {/if}
+      {#if department2}
+        <p class="text-black">
+          {department2}
+        </p>
+      {/if}
+      {#if organization2}
+        {#if website2}
+          <p class="text-black">
+            <a href={website2} class="text-teal-400">{organization2}</a>
+          </p>
+        {:else}
+          <p class="text-black">{organization2}</p>
+        {/if}
       {/if}
     </div>
 

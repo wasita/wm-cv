@@ -6,6 +6,7 @@
   export let committee: string = "";
   export let advisor: string = "";
   export let coadvisors: string = "";
+  export let thesis: string = "";
 </script>
 
 <div class="mb-6">
@@ -32,6 +33,9 @@
     {/if}
     {#if committee}
       <p class="mt-1 text-sm text-gray-700">Committee: {committee}</p>
+    {/if}
+    {#if thesis}
+      <p class="mt-1 text-sm text-gray-700">Thesis: {thesis}</p>
     {/if}
   </div>
 </div>

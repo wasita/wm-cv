@@ -32,18 +32,34 @@
           location="Hanover, NH"
           date="Jan 2021 — Present"
           advisor="Luke J. Chang"
-          committee="Luke Chang, Jonathan Phillips, Thalia Wheatley, & Robert Hawkins"
+          committee="Luke Chang, Jonathan Phillips, Thalia Wheatley, Robert Hawkins"
         />
         <Education
           school="Brown University"
           degree="B.S., Cognitive Neuroscience (Honors)"
           location="Providence, RI"
           date="2014 — 2018"
-          coadvisors="Amitai Shenhav & Romy Frömer"
+          thesis="The costs of having better alternatives."
+          coadvisors="Amitai Shenhav, Romy Frömer"
         />
       </Section>
 
       <Section title="Research Experience">
+        <Experience
+        title="Postdoctoral Associate"
+        department="New York University | Psychology"
+        organization="Computation & Decision-Making Lab (CoDec Lab)"
+        website="https://codec-lab.github.io"
+        department2="Mt. Sinai | Center for Computational Psychiatry"
+        organization2="Social Interaction & Neural Computation (SINC) Lab"
+        website2="https://sinclaboratory.com"
+        location="New York, NY"
+        date="Sept 2026 — ?"
+        coadvisor="Mark Ho, Shawn Rhoads"
+        details={[
+          "Research focuses: coordination, joint planning, game theory, computational psychiatry",
+        ]}
+      />
         <Experience
           title="Doctoral Researcher"
           department="Dartmouth College | Psychological & Brain Sciences"
@@ -51,7 +67,7 @@
           location="Hanover, NH"
           date="Jan 2021 — Present"
           website="https://cosanlab.com"
-          coadvisor="Luke Chang & Robert Hawkins"
+          coadvisor="Luke Chang, Robert Hawkins (Stanford)"
           details={[
             "Research focuses: shared experience, collaboration, communication, theory of mind, dyadic & group social interactions, NLP, Bayesian inference",
           ]}
@@ -63,7 +79,7 @@
           location="Providence, RI"
           date="Jun 2018 — Dec 2020"
           website="https://lnccbrown.com"
-          coadvisor="Michael J. Frank, Andra Geana, & Matt Nassar"
+          coadvisor="Michael J. Frank, Andra Geana, Matt Nassar"
           details={[
             "Research focuses: computational psychiatry (esp. OCD), reinforcement learning, decision-making, EEG, pharmacology, Parkinson's Disease",
           ]}
@@ -75,7 +91,7 @@
           location="Providence, RI"
           date="Sept 2016 — Jun 2018"
           website="https://shenhavlab.org"
-          coadvisor="Amitai Shenhav & Romy Frömer"
+          coadvisor="Amitai Shenhav, Romy Frömer"
           details={[
             "Research focuses: cognitive control, performance monitoring, task-switching, EEG",
           ]}
@@ -149,7 +165,7 @@
       <Section title="Working Papers">
         <Papers
           postWM="Mills, K., & Chang, L.J."
-          title="Beyond Self-Disclosure: A Hierarchy of Cumulative Relational Depth Predicts Social Connection."
+          title="Decomposing commonality: Bonding through 'me too' depends on perceived rarity at the moment of disclosure."
         />
         <Papers
           postWM="Templeton, E., & Chang, L.J."
@@ -157,7 +173,7 @@
         />
         <Papers
           postWM="Mills, K., Templeton, E., & Chang, L.J."
-          title="Are shared experiences blind?"
+          title="Are shared experiences blind?" 
         />
         <Papers
           twoAuthors={true}
@@ -169,17 +185,10 @@
         <Papers
           WM="Mahaphanit, W.*"
           postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
+          year="2026"
           title="Generalized shared reality arises in brief interactions from structured social inferences about commonality"
           journal="PsyArXiv"
           URL="https://osf.io/preprints/psyarxiv/3xzpe_v2"
-        />
-        <Papers
-          WM="Mahaphanit, W.*"
-          postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
-          year="2024"
-          title="When & why does shared reality generalize?"
-          journal="PsyArXiv"
-          URL="https://osf.io/preprints/psyarxiv/g9p3e"
         />
       </Section>
       <Section title="Proceedings Papers">
@@ -187,7 +196,7 @@
           preWM="Brockbank, E., Ranck, N., O'Keeffe, M.,"
           postWM="Gerstenberg, T., Fan, J., & Hawkins, R.D."
           year="2026"
-          title="Asking the right questions? What people learn about strangers in conversation?"
+          title="Asking the right questions? What people learn about strangers in conversation."
           journal="Proceedings of the 48th Annual Conference of the Cognitive Science (CogSci) Society"
           URL=""
         />
@@ -228,7 +237,7 @@
       <Section title="Invited Talks">
         <Presentations
           year="September 2025"
-          title="Escaping Flatland: From isolated minds to interacting ones."
+          title="Escaping flatland: From isolated minds to interacting ones."
           venue="Lab Meeting (PI: Mark Ho)"
           location="New York University, New York, NY"
         />
@@ -236,31 +245,31 @@
           year="April 2025"
           title="Inferring commonalities in social interactions."
           venue="Lab Meeting (PI: Elisa Baek)"
-          location="University of Southern California, Los Angeles, CA"
+          location="University of Southern California (Virtual)"
         />
         <Presentations
           year="November 2024"
           title="Inferring commonalities in social interactions."
-          venue="Lab Meeting (PI: Molly Crockett)"
+          venue="Lab Meeting (PI: MJ Crockett)"
           location="Princeton University, Princeton, NJ"
         />
         <Presentations
           year="December 2023"
           title="Web dev approaches to studying social interactions."
           venue="Lab Meeting (PI: Robert D. Hawkins)"
-          location="Virtual"
+          location="UW-Madison (Virtual)"
         />
         <Presentations
           year="November 2023"
           title="Learning to communicate a shared wavelength."
           venue="New England Research on Decision-Making (NERD) conference"
-          location="Harvard University, Cambridge, MA"
+          location="Harvard University"
         />
         <Presentations
           year="October 2023"
           title="Learning to communicate a shared wavelength."
           venue="Lab Meeting (PI: Robert D. Hawkins)"
-          location="Virtual"
+          location="UW-Madison (Virtual)"
         />
         <Presentations
           year="October 2023"
@@ -272,14 +281,14 @@
           year="December 2020"
           title="Computations in information-seeking and decision-making in Obsessive-Compulsive Disorder."
           venue="Lab Meeting (PI: Matt Nassar)"
-          location="Brown University, Providence, RI"
+          location="Brown University (Virtual)"
         />
       </Section>
 
       <Section title="Conference Talks">
         <Presentations
           year="March 2026"
-          title="Signals of Compatibility: How Commonality Becomes Connection."
+          title="Signals of compatibility: How commonality becomes connection."
           venue="Shared Reality Virtual Conference"
           location="Virtual"
         />
@@ -310,6 +319,12 @@
       </Section>
 
       <Section title="Misc. Talks">
+        <Presentations
+        year="May 2025"
+        title="Communicating a shared wavelength."
+        venue="Social Lab (SLAB) Talk Series"
+        location="Dartmouth College, Hanover, NH"
+      />
         <Presentations
           year="September 2023"
           title="Learning to collaboratively communicate a shared wavelength."
@@ -455,9 +470,19 @@
       </Section>
       <Section title="Awards & Honors">
         <Honors
+        info="Guarini Travel Award | $1,000"
+        details="Dartmouth College | Guarini Graduate School of Arts & Sciences"
+        date="April 2026"
+      />
+        <Honors
           info="Best Poster Award | Runner-up"
           details="COSMOS Summer School"
           date="September 2025"
+        />
+        <Honors
+          info="Travel Grant | $350"
+          details="Dartmouth College | Dept. of Psychological & Brain Sciences (PBS)"
+          date="July 2025"
         />
         <Honors
           info="Neukom Travel Award | $1,000"
