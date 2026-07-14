@@ -30,9 +30,10 @@
           school="Dartmouth College"
           degree="Ph.D. Candidate in Cognitive Neuroscience"
           location="Hanover, NH"
-          date="Jan 2021 — Present"
+          date="Jan 2021 — 2026"
           advisor="Luke J. Chang"
           committee="Luke Chang, Jonathan Phillips, Thalia Wheatley, Robert Hawkins"
+          thesis="Accessing another's inner world: an inferential account of social connection"
         />
         <Education
           school="Brown University"
