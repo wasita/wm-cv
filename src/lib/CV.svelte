@@ -66,7 +66,7 @@
           department="Dartmouth College | Psychological & Brain Sciences"
           organization="Computational Social Affective Neuroscience (COSAN) Lab"
           location="Hanover, NH"
-          date="Jan 2021 — Present"
+          date="Jan 2021 — Aug 2026"
           website="https://cosanlab.com"
           coadvisor="Luke Chang, Robert Hawkins (Stanford)"
           details={[
