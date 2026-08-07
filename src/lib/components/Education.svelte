@@ -10,13 +10,13 @@
 </script>
 
 <div class="mb-6">
-  <div class="flex items-start justify-between">
+  <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between">
     <div>
       <h3 class="text-lg font-bold">{school}</h3>
       <p class="text-gray-700">{degree}</p>
     </div>
 
-    <div class="text-right">
+    <div class="sm:text-right sm:shrink-0 sm:pl-4">
       <p class="text-black">{date}</p>
       <p class="text-sm text-black">
         <i class="mr-1 fas fa-map-marker-alt"></i>

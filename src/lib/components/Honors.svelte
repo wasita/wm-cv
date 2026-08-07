@@ -6,7 +6,7 @@
 </script>
 
 <div class="mb-4">
-  <div class="flex items-start justify-between">
+  <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between">
     <div>
       {#if URL}
         <a href={URL} class="text-teal-400">{info}</a>
@@ -16,7 +16,7 @@
       <br />
       {details}
     </div>
-    <div class="text-right">
+    <div class="sm:text-right sm:shrink-0 sm:pl-4">
       <p class="text-black">{date}</p>
     </div>
   </div>

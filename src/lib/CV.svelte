@@ -11,8 +11,8 @@
 </script>
 
 <div class="px-2 py-8 min-h-screen bg-white">
-  <div class="min-w-[4in] max-w-[8.25in] mx-auto bg-white">
-    <div id="cv-content" class="p-12">
+  <div class="print:min-w-[4in] max-w-[8.25in] mx-auto bg-white">
+    <div id="cv-content" class="p-4 sm:p-8 md:p-12">
       <Header
         name="WASITA MAHAPHANIT"
         email="wasita.gr@dartmouth.edu"
