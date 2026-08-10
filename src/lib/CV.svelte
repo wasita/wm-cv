@@ -166,15 +166,15 @@
       <Section title="Working Papers">
         <Papers
           postWM="Mills, K., & Chang, L.J."
-          title="Decomposing commonality: Bonding through 'me too' depends on perceived rarity at the moment of disclosure."
+          title="Decomposing commonality: Rare resonance and revealing disclosures drive social connection."
         />
         <Papers
           postWM="Templeton, E., & Chang, L.J."
-          title="Experimentally-induced small gaps in conversation lead to stronger connection in strangers."
+          title="Short gaps between conversational turns causally strengthen connection between strangers."
         />
         <Papers
-          postWM="Mills, K., Templeton, E., & Chang, L.J."
-          title="Are shared experiences blind?" 
+          postWM="Mills, K., & Chang, L.J."
+          title="Are shared experiences blind?"
         />
         <Papers
           twoAuthors={true}
@@ -187,7 +187,7 @@
           WM="Mahaphanit, W.*"
           postWM="Welker, C.*, Schmidt, H., Chang, L.J., & Hawkins, R.D."
           year="2026"
-          title="Generalized shared reality arises in brief interactions from structured social inferences about commonality"
+          title="Brief conversations build a shared worldview through structured inferences about commonality"
           journal="PsyArXiv"
           URL="https://osf.io/preprints/psyarxiv/3xzpe_v2"
         />

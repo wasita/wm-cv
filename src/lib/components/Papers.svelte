@@ -12,20 +12,12 @@
 <div class="mb-2">
   <div>
     {#if twoAuthors}
-      <span class="font-bold">{WM}</span> & {postWM}
-      ({year}).
-      {title}
-      <br />
-      <span class="italic">{journal}</span>
+      <span class="font-bold">{WM}</span>{` & ${postWM} (${year}). ${title}`}
     {:else}
-      {preWM}
-      <span class="font-bold">{WM}</span>,
-      {postWM}
-      ({year}).
-      {title}
-      <br />
-      <span class="italic">{journal}</span>
+      {#if preWM}{`${preWM} `}{/if}<span class="font-bold">{WM}</span>{`, ${postWM} (${year}). ${title}`}
     {/if}
+    <br />
+    <span class="italic">{journal}</span>
     {#if URL}
       <a href={URL} class="text-teal-400">[PDF]</a>
     {/if}
