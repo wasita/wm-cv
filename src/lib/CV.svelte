@@ -21,14 +21,14 @@
       />
 
       <ResearchInterests
-        description="How do people build shared understanding through real-time interaction, despite having unique viewpoints and incomplete information? I study how we leap from sparse social signals to rich inferences about others' minds, how we coordinate on meaning when everyone brings different interpretative frameworks, and how these dynamic processes create social connection.
-        To investigate these questions, I develop interactive web-based paradigms that capture the richness of actual social interaction while maintaining experimental control. I combine these multiplayer web apps with natural language processing (NLP) and computational cognitive modeling (primarily Bayesian inference)."
+        description="How do we come to feel genuinely connected to another person? I study how people leap from sparse social signals — a stated opinion, a well-timed reaction, a disclosed experience — to rich inferences about others' minds, and when those inferences produce felt connection. My dissertation showed that connection comes not from how much two people have in common, but from what a commonality reveals about who the other person is.
+        To investigate these questions, I develop interactive multiplayer web paradigms that capture the richness of real social interaction while maintaining experimental control, combined with natural language processing (NLP) and computational cognitive modeling (primarily Bayesian inference). As a postdoc, I am extending this work to how people build and update models of other minds during joint action and planning, and how breakdowns in this process may underlie social difficulties in psychiatric conditions."
       />
 
       <Section title="Education">
         <Education
           school="Dartmouth College"
-          degree="Ph.D. Candidate in Cognitive Neuroscience"
+          degree="Ph.D. in Cognitive Neuroscience"
           location="Hanover, NH"
           date="Jan 2021 — 2026"
           advisor="Luke J. Chang"
